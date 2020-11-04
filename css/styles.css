@@ -38,7 +38,7 @@ img {
 }
 
 .one-column {
-    padding: 7%;
+    padding: 7% 7% 0% 7%;
     float: left;
     width: 100%;
 }
